@@ -14,15 +14,15 @@ needed to change John's height from given X to given Y. The test consists of
 up to 100 pairs of X and Y, where both may be a value between 1 and 100 000
 centimeters. Negative height values are not allowed, and there may be pairs
 that are impossible to solve. The test is given to the standard input, and an
-example of it looks like this:
-
-Z
-X1 Y1
-X2 Y2
-X3 Y3
-
-where Z is the number of X/Y pairs (in this case it would be 3).
-
+example of it looks like this:  
+  
+Z  
+X1 Y1  
+X2 Y2  
+X3 Y3  
+  
+where Z is the number of X/Y pairs (in this case it would be 3).  
+  
 ## Solution
 I've noticed, that every combination of eating magic pills in a particular order may be
 graphically represented as a path of single moves on 8x8 chessboard, starting from the
